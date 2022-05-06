@@ -1,7 +1,5 @@
 # tsPractice1__basic
-## Description: <br />
-TypeScript basic pratice <br />
-<br />
+## Description: TypeScript basic pratice
 <br />
 Tutorial website: <br />
 1. https://www.youtube.com/watch?v=ahCwqrYpIuM <br />

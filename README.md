@@ -7,7 +7,7 @@ Tutorial website: <br />
 2. https://ithelp.ithome.com.tw/articles/10266798 <br />
 3. https://ithelp.ithome.com.tw/articles/10267335 <br />
 <br />
-___
+### Install: 
 <br />
 npm install typescript -g <br />
 tsc -v <br />

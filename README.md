@@ -44,9 +44,10 @@ ___
 2. Configure Default Build Task <br>
 3. tsc:build – tsconfig.json <br>
 4. tasks.json <br>
-<br>
+
 5. Run Build Task (Ctrl + Shift + B) <br>
 6. Run Code (Ctrl + Alt + N) <br>
+<br>
 
 ___
 **Using lodash:**<br>

@@ -1,27 +1,28 @@
-# tsPractice1__basic
-## Description: 
-TypeScript basic pratice <br />
-<br />
-Tutorial website: <br />
-1. https://www.youtube.com/watch?v=ahCwqrYpIuM <br />
-2. https://ithelp.ithome.com.tw/articles/10266798 <br />
-3. https://ithelp.ithome.com.tw/articles/10267335 <br />
-<br />
+# TypeScript basic pratice 
+**Description:**<br>
+<br>
+Tutorial website:<br>
+1. https://www.youtube.com/watch?v=ahCwqrYpIuM <br>
+2. https://ithelp.ithome.com.tw/articles/10266798 <br>
+3. https://ithelp.ithome.com.tw/articles/10267335 <br>
 ___
-<br />
-npm install typescript -g <br />
-tsc -v <br />
-<br />
-npm install ts-node -g <br />
-ts-node -v <br />
-<br />
-tsc index.ts <br />
-<br />
+**Command:**<br>
+<br>
+npm install typescript -g <br>
+tsc -v <br>
+<br>
+<br>
+npm install ts-node -g <br>
+ts-node -v <br>
+<br>
+<br>
+tsc index.ts <br>
 ___
-<br />
-## compiler 1: <br />
-create tsconfig.json <br />
-```js
+**Way of compiling ONE:**<br>
+<br>
+
+1. create tsconfig.json <br>
+```javascript
 {
     "compilerOptions": {
         "target": "esnext",
@@ -33,21 +34,24 @@ create tsconfig.json <br />
     },
 }
 ```
-<br />
-tsc (watch) <br />
-<br />
+
+2. tsc (watch) <br>
 ___
-<br />
-## compiler 2: <br />
-View>Command Palette (Ctrl + Shift + P) <br />
-Configure Default Build Task <br />
-tsc:build – tsconfig.json <br />
-tasks.json <br />
-<br />
-1. Run Build Task(Ctrl + Shift + B) <br />
-2. Run Code (Ctrl + Alt + N) <br />
-<br />
+**Way of compiling TWO:**<br>
+<br>
+
+1. View>Command Palette (Ctrl + Shift + P) <br>
+2. Configure Default Build Task <br>
+3. tsc:build – tsconfig.json <br>
+4. tasks.json <br>
+<br>
+
+5. Run Build Task (Ctrl + Shift + B) <br>
+6. Run Code (Ctrl + Alt + N) <br>
+<br>
 ___
-<br />
-npm i lodash
-<br />
+**Using lodash**<br>
+<br>
+
++ npm i lodash
+<br>

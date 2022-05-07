@@ -45,11 +45,10 @@ ___
 3. tsc:build – tsconfig.json <br>
 4. tasks.json <br>
 <br>
-
 5. Run Build Task (Ctrl + Shift + B) <br>
 6. Run Code (Ctrl + Alt + N) <br>
 ___
 **Using lodash:**<br>
 <br>
-+npm i lodash <br>
++ npm i lodash <br>
 <br>

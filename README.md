@@ -1,4 +1,4 @@
-# TypeScript basic pratice 
+# TypeScript basic pratice 1
 **Description:**<br>
 <br>
 Tutorial website:<br>
@@ -48,9 +48,8 @@ ___
 
 5. Run Build Task (Ctrl + Shift + B) <br>
 6. Run Code (Ctrl + Alt + N) <br>
-<br>
 ___
-**Using lodash**<br>
+**Using lodash:**<br>
 <br>
-+ npm i lodash <br>
++npm i lodash <br>
 <br>

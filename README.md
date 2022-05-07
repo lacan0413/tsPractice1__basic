@@ -47,9 +47,8 @@ ___
 <br>
 5. Run Build Task (Ctrl + Shift + B) <br>
 6. Run Code (Ctrl + Alt + N) <br>
-___
 
-<br>
+___
 **Using lodash:**<br>
 <br>
 + npm i lodash <br>

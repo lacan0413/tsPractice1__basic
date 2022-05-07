@@ -22,7 +22,8 @@ ___
 <br>
 
 1. create tsconfig.json <br>
-```javascript
+```json
+//json
 {
     "compilerOptions": {
         "target": "esnext",
